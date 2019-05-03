@@ -6,5 +6,4 @@ LeetCode
 
 | #   | Title                                                                                                                              | Solution                                                                                        | Difficulty |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------- |
-| 704 | [Largest Divisible Subset](https://leetcode-cn.com/problems/largest-divisible-subset/submissions/)     |                     [java](./algorithms/java/Largest Divisible Subset.java)                                           | medium     |
-
+| 368 | [largestdivisiblesubset](https://leetcode-cn.com/problems/largest-divisible-subset/)                                              | [Java](./algorithms/java/368.largestdivisiblesubset.java)                                       | Medium     |
