@@ -6,6 +6,7 @@ LeetCode
 
 | #   | Title                                                                                                                             | Solution                                                                                        | Difficulty |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------| ----------------------------------------------------------------------------------------------- | ---------- |
+| 669 | [trimabinarysearchtree](https://leetcode-cn.com/problems/trim-a-binary-search-tree/)                                              | [Java](./algorithms/java/669.TrimaBinarySearchTree.java)                                        | Easy       |
 | 368 | [largestdivisiblesubset](https://leetcode-cn.com/problems/largest-divisible-subset/)                                              | [Java](./algorithms/java/368.LargestDivisibleSubset.java)                                       | Medium     |
 | 322 | [coinchange](https://leetcode-cn.com/problems/coin-change/)                                                                       | [Java](./algorithms/java/322.CoinChange.java)                                                   | Medium     |
 | 226 | [invertbinarytree](https://leetcode-cn.com/problems/invert-binary-tree/)                                                          | [Java](./algorithms/java/226.InvertBinaryTree.java)                                             | Easy       |
@@ -19,6 +20,5 @@ LeetCode
 | 12  | [integertoroman](https://leetcode-cn.com/problems/integer-to-roman/)                                                              | [Java](./algorithms/java/12.IntegerToRoman.java)                                                | Medium     |
 | 11  | [containerwithmostwater](https://leetcode-cn.com/problems/container-with-most-water/)                                             | [Java](./algorithms/java/11.ContainerWithMostWater.java)                                        | Medium     |
 | 6   | [zigzagconversion](https://leetcode-cn.com/problems/zigzag-conversion/)                                                           | [Java](./algorithms/java/6.ZigZagConversion.java)                                               | Medium     |
-
 
 
