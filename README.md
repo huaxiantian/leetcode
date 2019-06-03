@@ -6,6 +6,7 @@ LeetCode
 
 | #   | Title                                                                                                                             | Solution                                                                                        | Difficulty |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------| ----------------------------------------------------------------------------------------------- | ---------- |
+| 965 | [univaluedbinarytree](https://leetcode-cn.com/problems/univalued-binary-tree/)                                                    | [Java](./algorithms/java/965.UnivaluedBinaryTree.java)                                          | Easy       |
 | 669 | [trimabinarysearchtree](https://leetcode-cn.com/problems/trim-a-binary-search-tree/)                                              | [Java](./algorithms/java/669.TrimaBinarySearchTree.java)                                        | Easy       |
 | 617 | [mergetwobinarytrees](https://leetcode-cn.com/problems/merge-two-binary-trees/)                                                   | [Java](./algorithms/java/617.MergeTwoBinaryTrees.java)                                          | Easy       |
 | 368 | [largestdivisiblesubset](https://leetcode-cn.com/problems/largest-divisible-subset/)                                              | [Java](./algorithms/java/368.LargestDivisibleSubset.java)                                       | Medium     |
